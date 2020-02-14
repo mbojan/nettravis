@@ -5,3 +5,7 @@
 appveyor.yml
 ^codecov\.yml$
 ^revdep$
+^\.travis\.win\.install\.sh$
+^deploy-linux\.sh$
+^deploy-windows\.sh$
+
